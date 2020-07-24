@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Coding journey begins.
-date: 2016-12-17T15:04:10.000Z
+date: 2020-07-24T21:30:36.086Z
 description: Starting a new learning experience to improve my coding skills.
 featuredpost: false
 featuredimage: /img/1200px-c_sharp_logo.svg-phone-.png
