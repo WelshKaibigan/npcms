@@ -38,7 +38,7 @@ const Navbar = class extends React.Component {
         role="navigation"
         aria-label="main-navigation"
       >
-        <div className="container is-fullhd">
+        <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
               <img src={logo} alt="Nicholas Pitt" />
@@ -65,12 +65,12 @@ const Navbar = class extends React.Component {
             <div id="myheader">
     
     
-    <ul>
-      <li> <Link to="/">Home</Link></li>
-      <li><Link to="/about">About</Link></li>
-      <li><Link to="/blog">Blog</Link></li>
-    </ul>
-  </div>
+              <ul>
+                <li> <Link to="/">Home</Link></li>
+                <li><Link to="/about">About</Link></li>
+                <li><Link to="/blog">Blog</Link></li>
+              </ul>
+            </div>
             </div>
           </div>
         </div>
