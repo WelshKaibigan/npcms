@@ -119,13 +119,13 @@
   }
 
   @media only screen and (max-width: 690px) {
-      #myheadher {
-        align-items: center;
+      #myheader {
         display: flex ;
-        justify-content: space-between;
         flex-direction: column;
-        padding:0 10px ;
+        align-items: center;
+        justify-content: center;
         margin: auto;
+        
         text-align: center;
       }
     #myheader ul {
